@@ -18,10 +18,8 @@ EasyWindow base `jquery-AeroWindow`.
 `jquery-AeroWindow`实现了窗体的表现,包括透明效果、拖拽效果、按钮效果。
 the `jquery-AeroWindow` implements form performance, contains transparent effect, drag-and-drop effect, and button effect.
 
-EasyWindow对其进行了完善并实现了窗体之间的关系及控制,
+EasyWindow对其进行了改进，并实现了窗体之间的关系及控制,包括遮挡层、窗体容器概念、窗体之间相互弹出、传参、回调、跨级操作、窗体模式等控制。
 EasyWindow has perfected it and realized the relationship and control between windows,
-
-包括窗体容器概念、窗体之间相互弹出、传参、回调、跨级操作、窗体模式等控制。
 Contains the concept of form container, form pop - up, reference, callback, cross - level operation, form mode control.
 
 ### 示例(Demo)
